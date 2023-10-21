@@ -48,7 +48,7 @@
             </a>
             &emsp;
             <a href="" target="_blank">
-                <img src="./logos/PL/js.png" alt="JavaScript" height="40"/>
+                <img src="./logos/PL/js.png" alt "JavaScript" height="40"/>
             </a>
             &emsp;
             <a href="" target="_blank">
