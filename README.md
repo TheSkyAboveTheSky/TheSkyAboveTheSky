@@ -201,6 +201,68 @@
             &emsp;
         </div>
     </li>
+    <li>
+        <h3>Design & Montage:</h3>
+        <div>
+            <a href="" target="_blank">
+                <img src="./logos/design/photoshop.png" alt="Adobe Photoshop" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/design/illustrator.png" alt="Adobe Illustrator" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/design/ae.png" alt="Adobe After Effect" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/design/pr.png" alt="Adobe Premieum" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/design/canva.png" alt="Canva" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/design/filmora.png" alt="Filmora" height="40"/>
+            </a>
+            &emsp;
+        </div>
+    </li>
+    <li>
+        <h3>Other:</h3>
+        <div>
+            <a href="" target="_blank">
+                <img src="./logos/other/androidstudio.png" alt="Android Studio" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/git.png" alt="Git" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/github.png" alt="Github" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/gitlab.png" alt="Gitlab" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/db/sqlite.png" alt="Sqlite" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/jira.png" alt="Jira" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/figma.svg" alt="Figma" height="40"/>
+            </a>
+            &emsp;
+        </div>
+    </li>
 </ul>
 </body>
 </html>
