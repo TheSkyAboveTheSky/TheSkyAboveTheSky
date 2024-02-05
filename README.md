@@ -176,6 +176,31 @@
             &emsp;
         </div>
     </li>
+    <li>
+        <h3>Databases:</h3>
+        <div>
+            <a href="" target="_blank">
+                <img src="./logos/db/mongodb.png" alt="MongoDB" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/db/plsql.jpg" alt="PL/SQL" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/db/postgresql.png" alt="PostgreSQL" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/db/sql.png" alt="SQL" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/db/sqlite.png" alt="Sqlite" height="40"/>
+            </a>
+            &emsp;
+        </div>
+    </li>
 </ul>
 </body>
 </html>
