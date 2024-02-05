@@ -9,7 +9,8 @@
     <img src="https://komarev.com/ghpvc/?username=theskyabovethesky&label=Profile%20views&color=e42a28&style=flat"
          alt="saidmounji"/>
 </p>
-<p>🚀 As a software engineering student and a participant in a double diploma program in France, my interests span web and mobile development, AI, and DevOps. I'm passionate about leveraging technology to address real-world challenges.</p>
+<p>🚀 As a software engineering student and a participant in a double diploma program in France ISIMA, Clermont Auvergne INP. 
+My interests span web and mobile development, AI, and DevOps. I'm passionate about leveraging technology to address real-world challenges.</p>
 
 <p>💡 My ultimate objective is to use my skills and knowledge to pioneer solutions in these cutting-edge fields. I'm committed to transforming ideas into tangible results, driven by curiosity and a strong desire to make a positive impact.</p>
 
@@ -271,6 +272,10 @@
             &emsp;
             <a href="" target="_blank">
                 <img src="./logos/other/oracleapex.png" alt="Oracle APEX" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/docker.png" alt="Docker" height="40"/>
             </a>
             &emsp;
         </div>
