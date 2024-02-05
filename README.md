@@ -261,6 +261,18 @@
                 <img src="./logos/other/figma.svg" alt="Figma" height="40"/>
             </a>
             &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/aws.png" alt="AWS" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/azure.png" alt="Microsoft Azure" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/other/oracleapex.png" alt="Oracle APEX" height="40"/>
+            </a>
+            &emsp;
         </div>
     </li>
 </ul>
