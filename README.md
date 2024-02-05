@@ -281,5 +281,89 @@ My interests span web and mobile development, AI, and DevOps. I'm passionate abo
         </div>
     </li>
 </ul>
+<h2 class="left">Projects</h2>
+
+<div class="project">
+    <h3>GymSias</h3>
+    <p>Description: Développement d'une application web pour la gestion des salles de sports.</p>
+    <p>Technologies Used: Laravel</p>
+    <a href="https://github.com/TheSkyAboveTheSky/GymSiaS" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>SM Ticket System Techocollabs</h3>
+    <p>Description: Développement d'une application web pour la gestion des ressources internes d'une entreprise.</p>
+    <p>Technologies Used: MERN Stack (MongoDB,Express JS , React , Node JS)</p>
+    <a href="https://github.com/TheSkyAboveTheSky/SM-Ticket-System-Technocollabs" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Student Card Scanner</h3>
+    <p>Description: Extraction automatique des données d'une carte d'étudiants en utilisant deep learning avec Keras, Flask et Android Studio.</p>
+    <p>Technologies Used: Keras, Flask, Android Studio</p>
+    <a href="https://github.com/TheSkyAboveTheSky/Student-Card-Scanner" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Innovator Space</h3>
+    <p>Description: Développement d'une application mobile pour la création d'une boite des idées innovantes utilisant Android Studio.</p>
+    <p>Technologies Used: Android Studio</p>
+    <a href="https://github.com/TheSkyAboveTheSky/Innovator-Space" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Internat Helper</h3>
+    <p>Description: Réalisation d'un projet pour la gestion des problèmes de l'internat utilisant Angular et Spring Boot.</p>
+    <p>Technologies Used: Angular, Spring Boot</p>
+    <a href="https://github.com/TheSkyAboveTheSky/Internat-Helper" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>War Of Races</h3>
+    <p>Description: Réalisation d’une Application pour la simulation d’une guerre entre deux armées en C++.</p>
+    <p>Technologies Used: C++</p>
+    <a href="https://github.com/TheSkyAboveTheSky/WorOfRaces_SAM_Project_Said_Mounji_F2" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Projet Gestion des Utilisateurs et des Taches</h3>
+    <p>Description: Projet de gestion des utilisateurs et des tâches utilisant Blazor et ASP.Net.</p>
+    <p>Technologies Used: Blazor, ASP.Net</p>
+    <a href="https://github.com/TheSkyAboveTheSky/csharp-microservice-Said-Mounji-ZZ2-F2" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Projet C# .NET Framework pour la gestion des dossiers et des contacts</h3>
+    <p>Description: Projet C# .NET Framework pour la gestion des dossiers et des contacts.</p>
+    <p>Technologies Used: C# .NET Framework</p>
+    <a href="https://github.com/TheSkyAboveTheSky/Gestionnaire-Contacts-Dossiers-SaidMounji-F2" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Dual Compilers </h3>
+    <p>Description: Projet Compila en C pour la compilation du Code en Arabe et en Français.</p>
+    <p>Technologies Used: C</p>
+    <a href="https://github.com/TheSkyAboveTheSky/Dual-Compilers" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Simulation du World Cup 2022</h3>
+    <p>Description: Projet Simulation du World Cup 2022 en Oracle APEX.</p>
+    <p>Technologies Used: Oracle APEX</p>
+    <a href="#" target="_blank">Repository</a>
+</div>
+
+<div class="project">
+    <h3>Réalisation du PaaS , IaaS , Faas dans Microsoft Azure et AWS</h3>
+    <p>Description: Réalisation du PaaS , IaaS , Faas dans Microsoft Azure et AWS.</p>
+    <p>Technologies Used: Microsoft Azure, AWS</p>
+</div>
+
+<div class="project">
+    <h3>Développement d'un Discord Bot pour la gestion des clubs</h3>
+    <p>Description: Développement d'un Discord Bot pour la gestion des clubs utilisant Typescript.</p>
+    <p>Technologies Used: Typescript</p>
+</div>
+
 </body>
 </html>
