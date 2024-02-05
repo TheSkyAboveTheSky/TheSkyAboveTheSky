@@ -48,7 +48,7 @@
             </a>
             &emsp;
             <a href="" target="_blank">
-                <img src="./logos/PL/js.png" alt "JavaScript" height="40"/>
+                <img src="./logos/PL/js.png" alt="JavaScript" height="40"/>
             </a>
             &emsp;
             <a href="" target="_blank">
@@ -106,6 +106,10 @@
             &emsp;
             <a href="" target="_blank">
                 <img src="./logos/front/next js.png" alt="Next JS" height="40"/>
+            </a>
+            &emsp;
+            <a href="" target="_blank">
+                <img src="./logos/front/blazor.webp" alt="Blazor" height="40"/>
             </a>
             &emsp;
         </div>
