@@ -250,11 +250,11 @@
         <h3>Others:</h3>
         <div>
             <a href="" target="_blank">
-                <img src="./logos/others/as.png" alt="Android Studio" height="40"/>
+                <img src="./logos/others/aws.png" alt="Android Studio" height="40"/>
             </a>
             &emsp;
             <a href="" target="_blank">
-                <img src="./logos/others/azure.png" alt="Microsoft Azure" height="40"/>
+                <img src="./logos/others/as.png" alt="Microsoft Azure" height="40"/>
             </a>
             &emsp;
             <a href="" target="_blank">
